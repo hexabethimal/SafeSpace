@@ -2,7 +2,7 @@
 Safe Space Web Browser
 
 This GitHub repository includes:
-- Releases (For non-tech people > Look to the right -->)
+- Releases (Look to the right -->)
 - A project overview with main highlights
 
 **A shortcut to a thorough wikipedia-style reference will appear on your Desktop after installing Safe Space**
