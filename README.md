@@ -6,16 +6,17 @@ This GitHub repository includes:
 - A project overview with main highlights
 
 **A shortcut to a thorough wikipedia-style reference will appear on your Desktop after installing Safe Space**
+
 *What appears below is intended to offer basic information, but not complete instructions*
 
 ## Table of Contents
-- [What is Safe Space?](https://github.com/hexabethimal/SafeSpace#what-is-safe-space)
-  - [Safety First](https://github.com/hexabethimal/SafeSpace#safety-first)
-  - [Capabilities](https://github.com/hexabethimal/SafeSpace#capabilities)
-  - [Dependencies](https://github.com/hexabethimal/SafeSpace#dependencies)
-- [Requirements & Setup](https://github.com/hexabethimal/SafeSpace#requirements-&-setup)
-- [Why no source code?](https://github.com/hexabethimal/SafeSpace#why-no-source-code)
-- [Bug Reporting](https://github.com/hexabethimal/SafeSpace#bug-reporting)
+- **What is Safe Space?**
+  - **Safety First**
+  - **Capabilities**
+  - **Dependencies**
+- **Requirements & Setup**
+- **Why no source code?**
+- **Bug Reporting**
 
 ## What is Safe Space?
 Safe Space was initially designed to meet unique needs and provide better web safety for a specialized work environment. During its development, I realized that it had potential to also be a great tool for anyone interested in its unique features and many security options.
