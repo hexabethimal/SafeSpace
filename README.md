@@ -59,6 +59,7 @@ Safe Space is closed-source for only one reason; an internal program dependency 
 
 ## Planned Features & Bug Fixes
 - Browsing History to be added
+- Default shortcut icons folder not loading by default in file explorer
 - Error upon waking computer from sleep
 
 ## Bug Reporting
