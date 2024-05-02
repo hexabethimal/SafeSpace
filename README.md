@@ -57,5 +57,9 @@ Safe Space stores its essential, static program files in the standard Program Fi
 ## Why no source code?
 Safe Space is closed-source for only one reason; an internal program dependency on Syncfusion. Syncfusion is a UI component kit that software developers use to offer capable user inputs without designing everything from scratch. Because Syncfusion is a paid product, their terms of use prohibit open-sourced projects, since this could reveal private developer keys that authenticate access to their product. For anyone who is concerned about how Safe Space operates, I can offer you the complete source code with UI elements removed upon request. It is not my intention to be secretive about anything about how Safe Space works.
 
+## Planned Features & Bug Fixes
+- Browsing History to be added
+- Error upon waking computer from sleep
+
 ## Bug Reporting
 Your feedback about bugs encountered is valuable to me. However, please be aware that bug fixes are not guaranteed and may be significantly delayed. Report any bugs, including a thorough description of **how it happened** and **what happened exactly** by selecting **Issues** (on the top in the website you are reading right now) and then clicking to *create a new issue*. Alternatively, you can email me at the email address mentioned in the included wiki, following installation.
