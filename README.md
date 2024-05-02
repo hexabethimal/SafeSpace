@@ -16,6 +16,7 @@ This GitHub repository includes:
   - **Dependencies**
 - **Requirements & Setup**
 - **Why no source code?**
+- **Planned Features & Bug Fixes**
 - **Bug Reporting**
 
 ## What is Safe Space?
